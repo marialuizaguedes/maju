@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maju")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c38cdb03c2489f818b038cb8c32dc34ebf7925f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a97354c3ddd10ab8f32b23d8a5693bdaf5321ac7")]
 [assembly: System.Reflection.AssemblyProductAttribute("maju")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maju")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
