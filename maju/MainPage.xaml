@@ -23,6 +23,18 @@
         Spacing="10"
         Margin="15,0,15,40">
 
+    <Button Text="Beginning"
+        Clicked="OnMenuStartButtonClicked"
+        Heightrequest="50"
+        CornerRadius="25"
+        BackgroundColor="#FFBBDA"
+        TextColor="Black"
+        Margin="0,0,0,10"
+        FontSize="18"
+        FontFamily="colagraph.zip"/>
+    <Button Text="Preferências"
+        Clicked="OnMenuSettingsButtonClicked"
+        BorderColor=    
         </VerticalStackLayout>
     </Grid>
 </ContentPage>

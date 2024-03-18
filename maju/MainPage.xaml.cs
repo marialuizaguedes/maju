@@ -9,6 +9,10 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 	}
 
+	private void OnMenuStartButtonClicked(object sender, EventArgs args)
+{
+	if (Application.Current != null)
+	 
 	
 }
 
