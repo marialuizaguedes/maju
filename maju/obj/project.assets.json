@@ -32826,11 +32826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\maju-1\\maju\\maju.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\maju\\maju\\maju.csproj",
       "projectName": "maju",
-      "projectPath": "C:\\Users\\Aluno\\maju-1\\maju\\maju.csproj",
+      "projectPath": "C:\\Users\\Aluno\\maju\\maju\\maju.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\maju-1\\maju\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\maju\\maju\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

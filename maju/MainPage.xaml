@@ -23,7 +23,7 @@
         Spacing="10"
         Margin="15,0,15,40">
 
-    <Button Text="Beginning"
+    <Button Text="Start"
         Clicked="OnMenuStartButtonClicked"
         Heightrequest="50"
         CornerRadius="25"
@@ -32,10 +32,42 @@
         Margin="0,0,0,10"
         FontSize="18"
         FontFamily="colagraph.zip"/>
-    <Button Text="Preferências"
+    <Button Text="About the game"
         Clicked="OnMenuSettingsButtonClicked"
-        BorderColor=    
-        </VerticalStackLayout>
+        BorderColor="lightpink"
+        BorderWidht="1"
+        Heightrequest="50"
+        CornerRadius="25"
+        BackgroundColor="Pink"
+        TextColor="Black"
+        FontSize="16"
+        FontFamily="colagraph.zip"
+ </VerticalStackLayout>
+
+ <Frame x:Name="frameSettings"
+        IsVisible="false"
+        Margin="10,20"
+        CornerRadius="20"
+        BackgroundColor="Light pink"
+        HorizontalOptions="Fill"
+        VerticalOptions="Fill">
+        <Grid>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="120"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="60"/>
+    <Grid.RowDefinitions>
+    <Label Text="Start"
+        TextColor="Black"
+        Margin="20"
+        FontSize="40"
+        FontFamily="colagraph.zip"
+        HorizontalOptions="Center"
+        HorizontalTextAlignment="Center"
+        Grid.Row="0"/>
+
+        
     </Grid>
 </ContentPage>
 

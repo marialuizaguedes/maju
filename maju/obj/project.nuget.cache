@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KisI1Zwpsy1rczC3mvZhaiQhifCyFaPzNEL8IUWrF+3LErKH2+/djaVY7vavq5dAUZ3ZH3YM5U5Ua4RRcJnNOw==",
+  "dgSpecHash": "B9DbFP0dFYahpPf8lF77zzX3tKKeooApixTAYctm7PDKvt/uuY2JgaANuydZJVrkeRzikkBcIdqISI6/Z/zgZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\maju-1\\maju\\maju.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\maju\\maju\\maju.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-rc.1.23419.4\\microsoft.extensions.configuration.8.0.0-rc.1.23419.4.nupkg.sha512",
